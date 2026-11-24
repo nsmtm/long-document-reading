@@ -1,0 +1,5 @@
+name: "long_document_reading"
+title: "Reading Long Documents"
+description: "Prepare and read a long document end to end, meaning tens of pages or more than a single read can hold, as a PDF, a Word file, or text or Markdown: inventory first, interview the user for scope, readers and masking, pilot the conversion to a page anchored reading copy, read in structural units with notes, and prove completion against the declared scope with a reconciled coverage statement. Use for long reports and papers, including handovers to Copilot or another agent. Copilot file work habits alone are out of scope here."
+category: "Work and knowledge"
+include_in_prompt: false
